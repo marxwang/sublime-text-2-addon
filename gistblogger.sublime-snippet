@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<script src="https://raw.github.com/moski/gist-Blogger/master/public/gistLoader.js" type="text/javascript"></script>
+<div class="gistLoad" data-id="$1" data-file="$3" id="gist-$2">Loading ....</div><br />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>gistblog</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
+
