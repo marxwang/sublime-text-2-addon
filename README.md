@@ -16,8 +16,8 @@ generate angularjs js includes <br>
 
 **[detail]** <br>
 
-keyboard shortcut : ** type "angularjs" then press tab** <br>
-scope : ** *.html**
+keyboard shortcut : __ type "angularjs" then press tab__ <br>
+scope : __ *.html __
 
 ### 2.doctype.sublime-snippet
 
@@ -30,8 +30,8 @@ generate basic html5 tags <br>
 **[detail]** <br>
 
 fillup: $1=> title, $2=>description, $3=> container html  body<br>
-keyboard shortcut : ** type "doctypes" then press tab** <br>
-scope : ** *.html**
+keyboard shortcut : __ type "doctypes" then press tab__ <br>
+scope : __ *.html __
 
 ##build
 
@@ -43,4 +43,4 @@ Let chrome browser open the page you're editing, preview it.
 ***
 
 **[detail]** <br>
-scope : ** *.html**
+scope : __ *.html __
